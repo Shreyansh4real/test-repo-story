@@ -3,3 +3,6 @@ this is chapter 3
 this is new content
 
 this was added in new branch
+
+
+this is part 2 and the story continues
